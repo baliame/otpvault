@@ -1,0 +1,2 @@
+pyotp
+cryptography>=39.0.2
